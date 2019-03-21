@@ -1,0 +1,41 @@
+h1 {
+
+	color: white;
+	text-align: center;
+	font-family: Arial;
+
+}
+
+body {
+
+	background-color: #af2626;
+	border: 100px;
+}
+
+
+table {
+	font-weight: bold;
+	color: #0a5000;
+	padding: 20px;
+	border: 6px;
+	border-color: black;
+}
+
+form {
+	margin-top: 240px;
+
+}
+
+div.bare {
+	width: 75%;
+	height: 100%;
+	background-color: white;
+	border: 40px;
+	border-color: black;
+	border: 4px double black; 
+    background: #fcfbf9; 
+    padding-left: : 150px; 
+    margin-left: 200px;
+
+}
+
