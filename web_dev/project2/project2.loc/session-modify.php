@@ -7,7 +7,7 @@ session_start();
 
 <?php
 // to change a session variable, just overwrite it
-$_SESSION["favcolor"] = "yellow";
+$_SESSION["favcolor"] = "red";
 print_r($_SESSION);
 ?>
 
