@@ -1,6 +1,6 @@
 <?php
 $cookie_name = "user";
-$cookie_value = "roman pidkostleniy";
+$cookie_value = "andriy maliukh";
 setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/");
 ?>
 <html>
