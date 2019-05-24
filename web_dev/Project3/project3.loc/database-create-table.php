@@ -2,11 +2,11 @@
 
 $servername = "localhost";
 
-$username = "root";
+$username = "admin";
 
-$password = "roman45464748";
+$password = "qwerty123";
 
-$dbname = "myDB";
+$dbname = "comp";
 
 
 
